@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.pyc
+.tmp/
+graft/.cache/
+
+# LinkedIn analytics exports can contain private data; keep them local.
+analytics/imports/*
+!analytics/imports/.gitkeep
+
+.claude/settings.local.json
+
+# graft's local graph cache — regenerable, not committed (run `graft build`).
+/graft/
+# Track the project skills; keep other .claude/ files (local settings) out.
+.claude/*
+!.claude/skills/

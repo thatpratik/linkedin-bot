@@ -1,0 +1,28 @@
+{
+  "agent": {
+    "name": "LinkedIn Personal Brand Agent",
+    "timezone": "Europe/Copenhagen",
+    "language": "English"
+  },
+  "content": {
+    "target_posts_per_week": 3,
+    "maximum_posts_per_week": 4,
+    "maximum_ideas_per_week": 10
+  },
+  "research": {
+    "rss_enabled": true,
+    "web_enabled": true,
+    "lookback_days": 14
+  },
+  "approval": {
+    "publishing": "manual",
+    "comments": "manual",
+    "messages": "manual",
+    "profile_changes": "manual"
+  },
+  "quality": {
+    "minimum_score": 80,
+    "require_sources_for_factual_claims": true,
+    "allow_fabricated_experiences": false
+  }
+}

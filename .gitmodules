@@ -1,0 +1,3 @@
+[submodule "vendor/linkedin-agent-skill"]
+	path = vendor/linkedin-agent-skill
+	url = https://github.com/Jakeschincariol/linkedin-agent-skill.git

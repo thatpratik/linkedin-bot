@@ -1,0 +1,61 @@
+{
+  "validated_on": "2026-11-11",
+  "sources": [
+    {
+      "name": "Angular Blog",
+      "url": "https://blog.angular.dev/feed",
+      "category": "frontend",
+      "type": "rss",
+      "enabled": true
+    },
+    {
+      "name": "TypeScript Blog",
+      "url": "https://devblogs.microsoft.com/typescript/feed/",
+      "category": "frontend",
+      "type": "rss",
+      "enabled": true
+    },
+    {
+      "name": "Nx Blog",
+      "url": "https://nx.dev/blog/rss.xml",
+      "category": "frontend",
+      "type": "rss",
+      "enabled": true
+    },
+    {
+      "name": "Microsoft Azure Blog",
+      "url": "https://azure.microsoft.com/en-us/blog/feed/",
+      "category": "cloud",
+      "type": "rss",
+      "enabled": true
+    },
+    {
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "agentic-ai",
+      "type": "web",
+      "enabled": true
+    },
+    {
+      "name": "Anthropic Engineering",
+      "url": "https://www.anthropic.com/engineering",
+      "category": "agentic-ai",
+      "type": "web",
+      "enabled": true
+    },
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/rss.xml",
+      "category": "ai",
+      "type": "rss",
+      "enabled": true
+    },
+    {
+      "name": "Martin Fowler",
+      "url": "https://martinfowler.com/feed.atom",
+      "category": "architecture",
+      "type": "rss",
+      "enabled": true
+    }
+  ]
+}
