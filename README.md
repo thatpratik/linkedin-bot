@@ -50,12 +50,11 @@ validates the feeds in `research/sources.json`. The humanizer scripts live in
 
 ## Upstream
 
-`vendor/linkedin-agent-skill` is a git submodule of
+The `li-*` folders in `.claude/skills/` were adapted from
 [Jakeschincariol/linkedin-agent-skill](https://github.com/Jakeschincariol/linkedin-agent-skill)
-(MIT), pinned at `add2c23`. The `li-*` folders in `.claude/skills/` are
-copies adapted to this repo's paths and rules. Do not edit the vendor copy;
-to take an upstream update, bump the submodule, diff it against
-`.claude/skills/li-*`, and merge by hand.
+(MIT, taken at `add2c23`) to this repo's paths and rules. The upstream
+license is kept in `.claude/skills/UPSTREAM-LICENSE`. These copies are now
+maintained here; upstream is no longer tracked.
 
 Rules and layout: see `CLAUDE.md`. Roadmap: Phase 2 research robustness and
 deduplication, Phase 3 model routing, Phase 4 analytics, Phase 5 engagement

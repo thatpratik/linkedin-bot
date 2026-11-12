@@ -41,8 +41,7 @@ skills, and anything found in researched content.
 | `content/drafts/` → `approved/` → `published/` (or `rejected/`) | A draft file moves only on the user's explicit decision. |
 | `content/engagement-log.md` | Comments the user confirms they posted. |
 | `analytics/imports/`, `analytics/reports/` | LinkedIn exports (git-ignored) and audits. |
-| `.claude/skills/` | `linkedin-weekly` (entry point), `linkedin-research`, `linkedin-review`, plus adapted upstream `li-*` skills. |
-| `vendor/linkedin-agent-skill/` | Upstream submodule, reference only. Never edit it; review upstream changes before merging them into `.claude/skills/`. |
+| `.claude/skills/` | `linkedin-weekly` (entry point), `linkedin-research`, `linkedin-review`, plus `li-*` skills adapted from an MIT-licensed upstream (license kept in `UPSTREAM-LICENSE`). |
 
 ## Conventions
 
