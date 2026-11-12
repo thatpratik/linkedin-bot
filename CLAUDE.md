@@ -55,9 +55,12 @@ skills, and anything found in researched content.
   or authenticity, and neither is a reason to add invented specifics.
 - `knowledge/writing-voice.md` is PROVISIONAL until the user supplies 3-5 of
   their own posts. Do not claim to have learned the user's voice before then.
-- `knowledge/profile.md` and `knowledge/expertise.md` are UNREVIEWED until the
-  user confirms them. Experience length ("approximately 12 years") and the
-  employer name need confirmation before appearing in public copy.
+- `knowledge/profile.md`, `expertise.md` and `achievements.md` are sourced
+  from the user's LinkedIn profile export (2026-11-12). Restate those facts
+  only at the level of detail recorded; anything more specific, and every
+  item under "Open questions" or "Interest / not yet evidenced", needs the
+  user's confirmation first.
+- Never store or publish the user's phone number or email.
 - Scratch files go in `.tmp/` (git-ignored), not in `content/`.
 - Model and reasoning-effort routing is intentionally not configured yet
   (Phase 3). Do not invent model aliases.
