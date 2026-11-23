@@ -133,7 +133,28 @@ Syntel Value Award; WOW Award; Excellence Award (three listed).
 ---
 
 ## Experiments
-None recorded yet. This is where personal Claude Code, agent-skill, MCP and
+### Agent skills built at work (user statement, 2026-11-23)
+- What was built (the user's words, condensed; nothing added):
+  1. Release-candidate skill: turns a manual multi-step release process into
+     one workflow. Cuts the branch from the working directory, creates a
+     release candidate, runs build verification and validation, takes the
+     same build ID and publishes it to the release branch for testing (later
+     promoted to prod after verification). Meanwhile it collects the bugs
+     and PBIs fixed in that RC into a list to post in the team's Teams
+     channel, so the team sees what is coming and what to verify.
+  2. Review skill from the Clean Code book, adapted to the user's project.
+  3. Review skill mined from around 1,000 PRs and their review comments,
+     capturing the team's review-comment patterns. User says it helps close
+     obvious gaps and helped them understand which business areas a change
+     affects.
+- Built: the week of 2026-11-16 to 2026-11-23 ("this week").
+- Not yet known: how they are implemented (scripts vs instructions,
+  reference files), what failed, results beyond the above.
+- Public-sharing restrictions: work context (current employer). Public use
+  needs the user's OK per item; the PR count and the "business areas" point
+  are internal until the user says otherwise.
+
+This is also where personal Claude Code, agent-skill, MCP and
 model-routing experiments belong (the brief names them as interests, the
 profile does not evidence them). Template:
 

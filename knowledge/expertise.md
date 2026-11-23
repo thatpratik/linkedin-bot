@@ -37,6 +37,11 @@ says otherwise.
 - Has built agent skills for own projects and own needs
 - Knows agentic workflows
 - Built a RAG pipeline for one of own products
+- Coding-agent workflow (stated 2026-11-23): leans on TDD, writing a draft
+  doc, then the spec, then the fix; keeps most agent rules in a global
+  CLAUDE.md with project-level files adding or overriding; has seen agents
+  change a test instead of the code, and once "fix" code when only asked a
+  question about it
 These are the user's statements with no detail yet: fine to say in these
 general terms, but specifics (what the skills do, what broke, numbers) must
 be asked for, and the work-related part needs an OK before going public.
