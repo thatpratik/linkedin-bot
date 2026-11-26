@@ -7,7 +7,7 @@ Times are suggestions in Europe/Copenhagen. Nothing is scheduled anywhere.
 | Date | Pillar | Topic | Format | Status | File |
 |---|---|---|---|---|---|
 | Wed 25 Nov (planned Tue 24 Nov) | Agentic AI and LLMs | A skill is more than a saved prompt (carried from W47) | Text + X | Published | content/published/2026-W48-post-01.md, content/published/2026-W48-post-01-x.md |
-| Fri 27 Nov, 15:00 | Agentic AI and LLMs | Stop an agent "fixing" the test instead of the code | Text | Approved | content/approved/2026-W48-post-02.md |
+| Thu 26 Nov | Agentic AI and LLMs | Stop an agent "fixing" the test instead of the code | Text + X | Published | content/published/2026-W48-post-02.md, content/published/2026-W48-post-02-x.md |
 | TBD (W49 if not ready) | Software Engineering | Coding agents moved the bottleneck to CI (carried from W47) | Text | Review required | content/drafts/2026-W48-post-03.md |
 
 Research: research/weekly/2026-W48.md

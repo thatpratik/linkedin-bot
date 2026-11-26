@@ -14,7 +14,7 @@ Format: `- [ ] YYYY-MM-DD | pillar | angle | source | status`
 - [x] 2026-11-12 | Architecture | Long-running AI jobs: queues, retries and stale results | research 2026-W47 #2 | Published 2026-11-14 (2026-W47-post-02)
 - [ ] 2026-11-12 | Engineering | Coding agents moved the bottleneck to CI | research 2026-W47 #3, #4; 2026-W48 #2 | Draft (2026-W48-post-03, carried from W47)
 - [ ] 2026-11-12 | Agentic AI | Going all-in on a coding agent: what guardrails it took | research 2026-W47 #4 | Idea
-- [ ] 2026-11-12 | Engineering | How do you stop an agent "fixing" a failing test? | research 2026-W47 #5; 2026-W48 #1 | Approved 2026-11-23 (2026-W48-post-02)
+- [x] 2026-11-12 | Engineering | How do you stop an agent "fixing" a failing test? | research 2026-W47 #5; 2026-W48 #1 | Published 2026-11-26 (2026-W48-post-02, LinkedIn + X)
 - [ ] 2026-11-12 | Agentic AI | What goes in CLAUDE.md, what goes in a skill, what goes nowhere | research 2026-W47 #6 | Idea
 - [ ] 2026-11-12 | Engineering | Canvas vs DOM for rendering millions of points (SLB) | achievements.md | Idea
 - [ ] 2026-11-12 | Architecture | Deleting an internal wrapper library (SLB) | achievements.md | Idea
