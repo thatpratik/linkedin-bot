@@ -7,7 +7,7 @@ Format: `- [ ] YYYY-MM-DD | pillar | angle | source | status`
 ## Backlog
 
 - [ ] 2026-11-11 | Agentic AI | Practical lessons from building agentic workflows | brief | Idea
-- [ ] 2026-11-11 | Agentic AI | Why reusable skills are more than prompt templates | brief + research 2026-W47 #1 | Approved 2026-11-23 (2026-W48-post-01)
+- [x] 2026-11-11 | Agentic AI | Why reusable skills are more than prompt templates | brief + research 2026-W47 #1 | Published 2026-11-25 (2026-W48-post-01, LinkedIn + X)
 - [ ] 2026-11-11 | Agentic AI | Model routing: choosing the right model for the task | brief | Idea
 - [ ] 2026-11-11 | Architecture | Micro-frontend architecture: trade-offs and lessons | brief | Idea
 - [ ] 2026-11-11 | Engineering | Improving developer productivity without adding complexity | brief | Idea

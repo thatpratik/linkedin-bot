@@ -6,7 +6,7 @@ Times are suggestions in Europe/Copenhagen. Nothing is scheduled anywhere.
 
 | Date | Pillar | Topic | Format | Status | File |
 |---|---|---|---|---|---|
-| Tue 24 Nov, 15:00 | Agentic AI and LLMs | A skill is more than a saved prompt (carried from W47) | Text | Approved | content/approved/2026-W48-post-01.md |
+| Wed 25 Nov (planned Tue 24 Nov) | Agentic AI and LLMs | A skill is more than a saved prompt (carried from W47) | Text + X | Published | content/published/2026-W48-post-01.md, content/published/2026-W48-post-01-x.md |
 | Thu 26 Nov, 15:00 | Agentic AI and LLMs | Stop an agent "fixing" the test instead of the code | Text | Approved | content/approved/2026-W48-post-02.md |
 | TBD (W49 if not ready) | Software Engineering | Coding agents moved the bottleneck to CI (carried from W47) | Text | Review required | content/drafts/2026-W48-post-03.md |
 
@@ -31,7 +31,7 @@ was actually published.
 
 | Date | Pillar | Topic | Format | Status | File |
 |---|---|---|---|---|---|
-| Tue 17 Nov, 08:00 | Agentic AI and LLMs | A skill is more than a saved prompt | Text | Carried to W48 | content/approved/2026-W48-post-01.md |
+| Tue 17 Nov, 08:00 | Agentic AI and LLMs | A skill is more than a saved prompt | Text | Carried to W48 | content/published/2026-W48-post-01.md |
 | Sat 14 Nov (planned Wed 18 Nov) | Software Architecture | Long-running AI jobs: the waiting is the hard part | Text | Published | content/published/2026-W47-post-02.md |
 | Thu 19 Nov, 08:00 | Software Engineering | Coding agents moved the bottleneck to CI | Text | Carried to W48 | content/drafts/2026-W48-post-03.md |
 
